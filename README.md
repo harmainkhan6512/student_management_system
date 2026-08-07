@@ -1,16 +1,15 @@
-# student_management_system
+Student_Management_System
 
-A new Flutter project.
+A comprehensive mobile application developed using Flutter, designed to efficiently manage and store student data. 
 
-## Getting Started
+App Screens & Features
 
-This project is a starting point for a Flutter application.
+  Splash Screen: A welcoming intro screen displaying the app logo and the owner's details.
+  Login & Sign-up Screen: Secure authentication screens that allow users to sign in to their existing accounts or register for a new one.
+  Add Student Screen: A detailed form screen to input and save new student information. It includes fields for Name, Roll Number, Department, Email, Semester, Address, and Phone Number.
+  View Students Screen: A dashboard that displays a complete list of all registered students with options to Edit or Delete any record.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Technologies Used
+Framework: Flutter
+Language: Dart
+IDE: Android Studio
